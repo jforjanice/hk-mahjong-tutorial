@@ -1,6 +1,6 @@
 # HK Mahjong (be) foreplay 🀄
 
-A neon-drenched, interactive web application designed to teach the fundamentals of Hong Kong Old Style Mahjong. Built originally as a fun, practical way to teach a partner the ropes before sitting down at the physical table!
+A neon-drenched, interactive web application designed to teach the fundamentals of Hong Kong Old Style Mahjong. Built originally as a fun, practical way to teach your friends the ropes before sitting down at the physical table!
 
 ## 🌟 Features
 
